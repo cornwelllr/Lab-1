@@ -5,7 +5,7 @@
 ##### 704-477-4667
 ##### lreidcornwell@gmail.com
 ### Education
-<img src="/img/Appalachian_State_University_logo_2.png">
+<img src="img/Appalachian_State_University_logo_2.png">
 
 #### Bachelors of Science, [Sustainable Development](https://sd.appstate.edu/) 
 * _In pursuit of the Geographic Information Systems Certification_
