@@ -5,7 +5,7 @@
 ##### 704-477-4667
 ##### lreidcornwell@gmail.com
 ### Education
-<img src="img/Appalachian_State_University_logo_2.png">
+<img src="/img/Appalachian_State_University_logo_2.png">
 
 #### Bachelors of Science, [Sustainable Development](https://sd.appstate.edu/) 
 * _In pursuit of the Geographic Information Systems Certification_
@@ -32,7 +32,14 @@ Appalachian State University 2022 to present
     * Learning about the realm of volunteer and non-profit work/establishments
     * Community connections and growing more embedded into the town of Boone
     * Serving food, helping prepare for the next day, closing duties, data entry based on donations that are received
-* ##### University Housing Desk Assistant 
-* ##### APPOLCorps Leader
+* ##### University Housing Desk Assistant: _Appalachian State University, Boone, NC Started Fall 2024 to present day_
+    * Responsible for customer service relations with students and other university housing staff
+    * Labeling and ensuring package room organization and getting the package to the appropriate receiver 
+    * Key duties including giving out spares and putting in work orders for students
+* ##### APPOLCorps Leader: _Appalachian State University, Boone, NC Fall Semester 2023/24_
+    * Spent several hours a day for the first week of Freshman being on campus with 20-30 students per day
+    * Responsible for getting them from one place to another and easing the transitions into college by familiarizing them with campus ammentities, locations, and support
+
+
 
 
